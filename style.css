@@ -1,0 +1,25 @@
+*{
+color: #fff;
+padding: 0;
+margin: 0;
+}
+#nav{
+    background-color:#0f1111;
+    height: 60px;
+
+}
+a{
+    
+    margin-right: 190px;
+    text-decoration: none;
+}
+
+#logo{
+    color: #ff8804;
+    font-size: 25px;
+}
+#btn{
+    background-color: #ff8804;
+}
+
+
